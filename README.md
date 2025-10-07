@@ -1,6 +1,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oakslab-1018&layout=compact)
 
-![Visitor Counter](https://count.getloli.com/@Oakslab-1018?theme=rule34&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
+![Visitor Counter](https://count.getloli.com/@Oakslab-1018?theme=rule34&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
 <!--
 **Oakslab-1018/Oakslab-1018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
